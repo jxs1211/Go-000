@@ -1,6 +1,13 @@
 # 极客大学「Go训练营-第0期」作业提交仓库
 
+https://github.com/jxs1211/Go-000/tree/main/Week02
+https://github.com/algorithm020/algorithm020/issues
 
+#学号:G20200607011001
+#姓名:沈先捷
+#小组: 6组
+#语言:Go
+#作业链接&总结链接:https://github.com/jxs1211/Go-000/tree/main/Week02
 
 
 ## 仓库目录结构说明
