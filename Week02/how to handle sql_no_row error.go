@@ -1,8 +1,8 @@
 package main
 
 import (
+	"database/sql"
 	"fmt"
-	"github.com/pkg/errors"
 	"log"
 )
 
@@ -28,5 +28,6 @@ func biz() error {
 /*捕获底层异常并封装在wrap，向上传递*/
 func dao() error {
 	//return nil
-	return errors.Wrap(errors.New("sqlNoRows"), "test")
+	//return errors.Wrap(errors.New("sqlNoRows"), "test")
+	return sql.ErrNoRows
 }
