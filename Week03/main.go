@@ -2,9 +2,8 @@ package main
 
 /*
 #学号:G20200607011001
-#姓名:沈先捷
 #小组: 6组
-#作业链接&总结链接:https://github.com/jxs1211/Go-000/tree/main/Week03
+#作业链接:https://github.com/jxs1211/Go-000/tree/main/Week03
 题目:
 基于 errgroup 实现一个 http server 的启动和关闭 ，以及 linux signal 信号的注册和处理，要保证能够 一个退出，全部注销退出。
 */
